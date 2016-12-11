@@ -1,0 +1,6 @@
+c:\users\юлія\documents\visual studio 2015\Projects\Indexer\Indexer\bin\Debug\Indexer.exe.config
+c:\users\юлія\documents\visual studio 2015\Projects\Indexer\Indexer\bin\Debug\Indexer.exe
+c:\users\юлія\documents\visual studio 2015\Projects\Indexer\Indexer\bin\Debug\Indexer.pdb
+c:\users\юлія\documents\visual studio 2015\Projects\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+c:\users\юлія\documents\visual studio 2015\Projects\Indexer\Indexer\obj\Debug\Indexer.exe
+c:\users\юлія\documents\visual studio 2015\Projects\Indexer\Indexer\obj\Debug\Indexer.pdb
